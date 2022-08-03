@@ -96,7 +96,6 @@ public class Main {
                  break;
              default:
                  System.out.println("Такого месяца не существует");
-
          }
     }
 }
